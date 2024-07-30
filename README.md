@@ -1,9 +1,4 @@
 # Bioinformatics
-this contains personal code in various project in the field of bioinformatics , with insights from various platform like Kaggle , YouTube....... 
-Here's a description you can use for your GitHub project:
-
----
-
 # Diabetes Prediction Model
 
 This repository contains a machine learning project focused on predicting the likelihood of diabetes based on various health metrics. The dataset used is the popular Pima Indians Diabetes dataset, which includes features such as glucose levels, blood pressure, skin thickness, and more.
